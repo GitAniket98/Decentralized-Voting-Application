@@ -1,4 +1,4 @@
-# Decentralized Voting DApp
+# Decentralized Voting App
 
 A decentralized voting application leveraging blockchain technology for secure, transparent, and tamper-proof voting. This project is developed using Hardhat for smart contract deployment and testing, and is deployed on the Sepolia testnet.
 
